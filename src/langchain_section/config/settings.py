@@ -1,7 +1,6 @@
 """Configuración general"""
 import os
 from dotenv import load_dotenv
-from src.langchain_section.config import settings
 
 load_dotenv()
 
